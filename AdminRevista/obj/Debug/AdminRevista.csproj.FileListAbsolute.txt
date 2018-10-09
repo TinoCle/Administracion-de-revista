@@ -1,0 +1,10 @@
+C:\Users\Tino\Desktop\Admin Revista\AdminRevista\bin\Debug\ParcialClemente.exe.config
+C:\Users\Tino\Desktop\Admin Revista\AdminRevista\bin\Debug\ParcialClemente.exe
+C:\Users\Tino\Desktop\Admin Revista\AdminRevista\bin\Debug\ParcialClemente.pdb
+C:\Users\Tino\Desktop\Admin Revista\AdminRevista\obj\Debug\AdminRevista.csprojAssemblyReference.cache
+C:\Users\Tino\Desktop\Admin Revista\AdminRevista\obj\Debug\AdminRevista.Form1.resources
+C:\Users\Tino\Desktop\Admin Revista\AdminRevista\obj\Debug\ParcialClemente.Properties.Resources.resources
+C:\Users\Tino\Desktop\Admin Revista\AdminRevista\obj\Debug\AdminRevista.csproj.GenerateResource.cache
+C:\Users\Tino\Desktop\Admin Revista\AdminRevista\obj\Debug\AdminRevista.csproj.CoreCompileInputs.cache
+C:\Users\Tino\Desktop\Admin Revista\AdminRevista\obj\Debug\ParcialClemente.exe
+C:\Users\Tino\Desktop\Admin Revista\AdminRevista\obj\Debug\ParcialClemente.pdb
