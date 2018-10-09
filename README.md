@@ -7,7 +7,7 @@ Las siguientes instrucciones ayudarán al usuario a tener una copia del programa
 ### Prerequisitos
 El requisito fundamental es correr el programa en el Sistema Operativo Windows.
 ### Ejecutando el programa
-En la carpeta raíz del proyecto se encuentra el archivo _revista.exe_, ejecutando este archivo se puede acceder al programa sin necesidad de configurar nada.
+En la carpeta raíz del proyecto se encuentra el archivo _AdminRevista.exe_, ejecutando este archivo se puede acceder al programa sin necesidad de configurar nada.
 
 _Nota: Los cambios que se realicen en el programa no se guardarán una vez cerrado éste. El propósito es el de testing de las tecnologías utilizadas._
 ### Pantallas del programa
