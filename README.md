@@ -11,11 +11,11 @@ En la carpeta raíz del proyecto se encuentra el archivo _revista.exe_, ejecutan
 
 _Nota: Los cambios que se realicen en el programa no se guardarán una vez cerrado éste. El propósito es el de testing de las tecnologías utilizadas._
 ### Pantallas del programa
-![Page 1](/images/1.png)
+![Page 1](/AdminRevista/images/1.png)
 
 En esta pantalla se ingresan los artículos a la revista.
 
-![Page 2](/images/2.png)
+![Page 2](/AdminRevista/images/2.png)
 
 En esta pantalla se pueden consultar los artículos ya ingresados, separados según el autor.
 
