@@ -4,7 +4,7 @@ Este es un proyecto .NET donde se usan Windows Forms para administrar los artíc
 ## Comenzando
 Las siguientes instrucciones ayudarán al usuario a tener una copia del programa funcional instalada en su computadora, también le darán la posibilidad de consultar el código fuente.
 
-### Prerequisitos
+### Prerrequisitos
 El requisito fundamental es correr el programa en el Sistema Operativo Windows.
 ### Ejecutando el programa
 En la carpeta raíz del proyecto se encuentra el archivo _AdminRevista.exe_, ejecutando este archivo se puede acceder al programa sin necesidad de configurar nada.
